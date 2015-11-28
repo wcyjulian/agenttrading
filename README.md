@@ -1,2 +1,2 @@
 # agenttrading
-Agent-base Trading
+Agent-base Trading System based on Python and partly R
